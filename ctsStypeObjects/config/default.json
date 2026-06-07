@@ -1,0 +1,374 @@
+{
+    "meta": {
+        "logEnable": "true",
+        "directorLogVerbosity ": "fatal"
+    },
+    "chains": [
+        {
+            "name": "object1",
+            "id": "object1",
+            "input": {
+                "id": "object1",
+                "name": "Object1",
+                "ip": "127.0.0.1",
+                "port": "6501",
+                "advanced": {
+                    "protocol": "Stype HF 1.1",
+                    "positiveX": "right",
+                    "positiveY": "up",
+                    "positiveZ": "backward",
+                    "positivePan": "pan right",
+                    "positiveTilt": "tilt up",
+                    "positiveRoll": "roll right",
+                    "lengthUnits": "m",
+                    "angleUnits": "degrees",
+                    "frameRate": "30",
+                    "width": "9.5900001525878906",
+                    "height": "5.3899998664855957",
+                    "aperture": "4",
+                    "protocolSpecific": {
+                        "enableDoF": "false",
+                        "disortionModel": "Disabled"
+                    }
+                },
+                "cameraMount": {
+                    "cameraMountType": "Tripod\/Dolly",
+                    "craneA": "0",
+                    "craneB": "0",
+                    "craneC": "0",
+                    "craneD": "0",
+                    "craneX": "0",
+                    "craneY": "0",
+                    "craneZ": "0",
+                    "tripodA": "0",
+                    "tripodX": "0",
+                    "tripodY": "0",
+                    "tripodZ": "0"
+                },
+                "lensTracking": {
+                    "useLensFile": "false",
+                    "lensFile": "",
+                    "zoomEncoderOut": "0",
+                    "zoomEncoderIn": "65000",
+                    "focusEncoderNear": "65000",
+                    "focusEncoderFar": "0",
+                    "enableCenterOffset": "true",
+                    "enableFov": "true",
+                    "enableDistortion": "true",
+                    "enableNodal": "true",
+                    "enabledof": "true"
+                }
+            },
+            "analysis": {
+                "logEnable": "false",
+                "logAnalysis": "false",
+                "logPackets": "false",
+                "intervalErrorThreshold": "0",
+                "durationErrorThreshold": "0",
+                "lockOnAlpha": "0",
+                "lockOnThreshold": "0",
+                "lockOnEnable": "false"
+            },
+            "cameraCraneOffsets": {
+                "X": "0",
+                "Y": "0",
+                "Z": "0",
+                "xRotation": "0",
+                "yRotation": "0",
+                "zRotation": "0",
+                "pan": "0",
+                "tilt": "0",
+                "roll": "0",
+                "invertElevate": "false",
+                "invertSwing": "false",
+                "swingOffset": "0",
+                "elevateOffset": "0"
+            },
+            "tripodOffsets": {
+                "X": "0",
+                "Y": "0",
+                "Z": "0",
+                "xRotation": "0",
+                "yRotation": "0",
+                "zRotation": "0",
+                "pan": "0",
+                "tilt": "0",
+                "roll": "0"
+            },
+            "noMountOffsets": {
+                "X": "0",
+                "Y": "0",
+                "Z": "0",
+                "xRotation": "0",
+                "yRotation": "0",
+                "zRotation": "0",
+                "pan": "0",
+                "tilt": "0",
+                "roll": "0"
+            },
+            "lensOffsets": {
+                "aperture": "0",
+                "fieldOfView": "0",
+                "focusDistance": "0",
+                "projectionX": "0",
+                "projectionY": "0",
+                "showCrosshair": "false",
+                "nodalX": "0"
+            },
+            "outputs": [
+                {
+                    "id": "fgfduisgdsf",
+                    "name" : "MOTIVE-1",
+                    "ip": "192.168.44.4",
+                    "port": "8567",
+                    "protocol": "cts"
+                }
+            ]
+
+        }
+		{
+            "name": "object2",
+            "id": "object2",
+            "input": {
+                "id": "object2",
+                "name": "Object2",
+                "ip": "127.0.0.1",
+                "port": "6502",
+                "advanced": {
+                    "protocol": "Stype HF 1.1",
+                    "positiveX": "right",
+                    "positiveY": "up",
+                    "positiveZ": "backward",
+                    "positivePan": "pan right",
+                    "positiveTilt": "tilt up",
+                    "positiveRoll": "roll right",
+                    "lengthUnits": "m",
+                    "angleUnits": "degrees",
+                    "frameRate": "30",
+                    "width": "9.5900001525878906",
+                    "height": "5.3899998664855957",
+                    "aperture": "4",
+                    "protocolSpecific": {
+                        "enableDoF": "false",
+                        "disortionModel": "Disabled"
+                    }
+                },
+                "cameraMount": {
+                    "cameraMountType": "Tripod\/Dolly",
+                    "craneA": "0",
+                    "craneB": "0",
+                    "craneC": "0",
+                    "craneD": "0",
+                    "craneX": "0",
+                    "craneY": "0",
+                    "craneZ": "0",
+                    "tripodA": "0",
+                    "tripodX": "0",
+                    "tripodY": "0",
+                    "tripodZ": "0"
+                },
+                "lensTracking": {
+                    "useLensFile": "false",
+                    "lensFile": "",
+                    "zoomEncoderOut": "0",
+                    "zoomEncoderIn": "65000",
+                    "focusEncoderNear": "65000",
+                    "focusEncoderFar": "0",
+                    "enableCenterOffset": "true",
+                    "enableFov": "true",
+                    "enableDistortion": "true",
+                    "enableNodal": "true",
+                    "enabledof": "true"
+                }
+            },
+            "analysis": {
+                "logEnable": "false",
+                "logAnalysis": "false",
+                "logPackets": "false",
+                "intervalErrorThreshold": "0",
+                "durationErrorThreshold": "0",
+                "lockOnAlpha": "0",
+                "lockOnThreshold": "0",
+                "lockOnEnable": "false"
+            },
+            "cameraCraneOffsets": {
+                "X": "0",
+                "Y": "0",
+                "Z": "0",
+                "xRotation": "0",
+                "yRotation": "0",
+                "zRotation": "0",
+                "pan": "0",
+                "tilt": "0",
+                "roll": "0",
+                "invertElevate": "false",
+                "invertSwing": "false",
+                "swingOffset": "0",
+                "elevateOffset": "0"
+            },
+            "tripodOffsets": {
+                "X": "0",
+                "Y": "0",
+                "Z": "0",
+                "xRotation": "0",
+                "yRotation": "0",
+                "zRotation": "0",
+                "pan": "0",
+                "tilt": "0",
+                "roll": "0"
+            },
+            "noMountOffsets": {
+                "X": "0",
+                "Y": "0",
+                "Z": "0",
+                "xRotation": "0",
+                "yRotation": "0",
+                "zRotation": "0",
+                "pan": "0",
+                "tilt": "0",
+                "roll": "0"
+            },
+            "lensOffsets": {
+                "aperture": "0",
+                "fieldOfView": "0",
+                "focusDistance": "0",
+                "projectionX": "0",
+                "projectionY": "0",
+                "showCrosshair": "false",
+                "nodalX": "0"
+            },
+            "outputs": [
+                {
+                    "id": "fgfduisgdsf",
+                    "name" : "MOTIVE-1",
+                    "ip": "192.168.44.4",
+                    "port": "8567",
+                    "protocol": "cts"
+                }
+            ]
+
+        }
+		{
+            "name": "object3",
+            "id": "object3",
+            "input": {
+                "id": "object3",
+                "name": "Object3",
+                "ip": "127.0.0.1",
+                "port": "6503",
+                "advanced": {
+                    "protocol": "Stype HF 1.1",
+                    "positiveX": "right",
+                    "positiveY": "up",
+                    "positiveZ": "backward",
+                    "positivePan": "pan right",
+                    "positiveTilt": "tilt up",
+                    "positiveRoll": "roll right",
+                    "lengthUnits": "m",
+                    "angleUnits": "degrees",
+                    "frameRate": "30",
+                    "width": "9.5900001525878906",
+                    "height": "5.3899998664855957",
+                    "aperture": "4",
+                    "protocolSpecific": {
+                        "enableDoF": "false",
+                        "disortionModel": "Disabled"
+                    }
+                },
+                "cameraMount": {
+                    "cameraMountType": "Tripod\/Dolly",
+                    "craneA": "0",
+                    "craneB": "0",
+                    "craneC": "0",
+                    "craneD": "0",
+                    "craneX": "0",
+                    "craneY": "0",
+                    "craneZ": "0",
+                    "tripodA": "0",
+                    "tripodX": "0",
+                    "tripodY": "0",
+                    "tripodZ": "0"
+                },
+                "lensTracking": {
+                    "useLensFile": "false",
+                    "lensFile": "",
+                    "zoomEncoderOut": "0",
+                    "zoomEncoderIn": "65000",
+                    "focusEncoderNear": "65000",
+                    "focusEncoderFar": "0",
+                    "enableCenterOffset": "true",
+                    "enableFov": "true",
+                    "enableDistortion": "true",
+                    "enableNodal": "true",
+                    "enabledof": "true"
+                }
+            },
+            "analysis": {
+                "logEnable": "false",
+                "logAnalysis": "false",
+                "logPackets": "false",
+                "intervalErrorThreshold": "0",
+                "durationErrorThreshold": "0",
+                "lockOnAlpha": "0",
+                "lockOnThreshold": "0",
+                "lockOnEnable": "false"
+            },
+            "cameraCraneOffsets": {
+                "X": "0",
+                "Y": "0",
+                "Z": "0",
+                "xRotation": "0",
+                "yRotation": "0",
+                "zRotation": "0",
+                "pan": "0",
+                "tilt": "0",
+                "roll": "0",
+                "invertElevate": "false",
+                "invertSwing": "false",
+                "swingOffset": "0",
+                "elevateOffset": "0"
+            },
+            "tripodOffsets": {
+                "X": "0",
+                "Y": "0",
+                "Z": "0",
+                "xRotation": "0",
+                "yRotation": "0",
+                "zRotation": "0",
+                "pan": "0",
+                "tilt": "0",
+                "roll": "0"
+            },
+            "noMountOffsets": {
+                "X": "0",
+                "Y": "0",
+                "Z": "0",
+                "xRotation": "0",
+                "yRotation": "0",
+                "zRotation": "0",
+                "pan": "0",
+                "tilt": "0",
+                "roll": "0"
+            },
+            "lensOffsets": {
+                "aperture": "0",
+                "fieldOfView": "0",
+                "focusDistance": "0",
+                "projectionX": "0",
+                "projectionY": "0",
+                "showCrosshair": "false",
+                "nodalX": "0"
+            },
+            "outputs": [
+                {
+                    "id": "fgfduisgdsf",
+                    "name" : "MOTIVE-1",
+                    "ip": "192.168.44.4",
+                    "port": "8567",
+                    "protocol": "cts"
+                }
+            ]
+
+        }
+    ]
+}

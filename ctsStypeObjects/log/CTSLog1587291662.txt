@@ -1,0 +1,1556 @@
+2020-Apr-19 | 18:21:02 | Start of log
+2020-Apr-19 | 18:21:02 | INFO | cliParams.configPath: 
+2020-Apr-19 | 18:21:02 | INFO | cliParams.dhName: DESKTOP-NRPN191_Tracker
+2020-Apr-19 | 18:21:02 | INFO | cliParams.dhIp: 127.0.0.1
+2020-Apr-19 | 18:21:02 | INFO | 
+2020-Apr-19 | 18:21:02 | INFO | Resolved myConfig.myActiveConfigPath: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\activeConfig.json
+2020-Apr-19 | 18:21:02 | INFO | Resolved defaultConfigPath: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\default.json
+2020-Apr-19 | 18:21:02 | INFO | Resolved myConfig.myFolderPath: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects
+2020-Apr-19 | 18:21:02 | INFO | Resolved myConfig.myLogFolderPath: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\log
+2020-Apr-19 | 18:21:02 | INFO | Trying to parse D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\activeConfig.json
+2020-Apr-19 | 18:21:02 | ERROR | Error parsing config: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\activeConfig.json reason: Error reading config file: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\activeConfig.json error: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\activeConfig.json: cannot open file
+2020-Apr-19 | 18:21:02 | INFO | Trying to parse D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\default.json
+2020-Apr-19 | 18:21:02 | ERROR | Distortion model not recognized: undefined
+2020-Apr-19 | 18:21:02 | INFO | Success! Starting with chains
+2020-Apr-19 | 18:21:02 | INFO | Input: [127.0.0.1:6305]
+2020-Apr-19 | 18:21:02 | INFO | Output: [192.168.44.4:8567]
+2020-Apr-19 | 18:21:02 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:04 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:21:05 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:05 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:05 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:21:06 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:06 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:06 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:07 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:07 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:07 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:08 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:08 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:08 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:21:09 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:09 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:09 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:10 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:10 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:10 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:21:11 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:11 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:11 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:12 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:12 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:12 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:21:13 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:13 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:13 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:14 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:14 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:14 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:21:15 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:15 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:15 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.96 hz","reasons":""}]}
+2020-Apr-19 | 18:21:16 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:16 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:16 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.96 hz","reasons":""}]}
+2020-Apr-19 | 18:21:17 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:17 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:17 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.96 hz","reasons":""}]}
+2020-Apr-19 | 18:21:18 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:18 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:18 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:19 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:19 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:19 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:21:20 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:20 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:20 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:21:21 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:21 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:21 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:22 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:22 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:22 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.97 hz","reasons":""}]}
+2020-Apr-19 | 18:21:23 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:23 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:23 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:21:24 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:24 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:24 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:21:25 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:25 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:25 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:26 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:26 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:26 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:21:27 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:27 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:27 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:21:28 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:28 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:28 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:21:29 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:29 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:29 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:30 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:30 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:30 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:21:31 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:31 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:31 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:21:32 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:32 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:32 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:21:33 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:33 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:33 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:34 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:34 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:34 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:35 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:35 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:35 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:21:36 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:36 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:36 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:21:37 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:37 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:37 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:38 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:38 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:38 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:21:39 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:39 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:39 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:21:40 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:40 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:40 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.96 hz","reasons":""}]}
+2020-Apr-19 | 18:21:41 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:41 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:41 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.93 hz","reasons":""}]}
+2020-Apr-19 | 18:21:42 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:42 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:42 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:43 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:43 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:43 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:21:44 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:44 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:44 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:45 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:45 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:45 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:21:46 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:46 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:46 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:47 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:47 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:47 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:48 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:48 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:48 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:49 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:49 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:49 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:50 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:50 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:50 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:51 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:51 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:51 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:52 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:52 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:52 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:21:53 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:53 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:53 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:21:54 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:54 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:54 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.97 hz","reasons":""}]}
+2020-Apr-19 | 18:21:55 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:55 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:55 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.95 hz","reasons":""}]}
+2020-Apr-19 | 18:21:56 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:56 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:56 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.95 hz","reasons":""}]}
+2020-Apr-19 | 18:21:57 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:57 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:57 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.97 hz","reasons":""}]}
+2020-Apr-19 | 18:21:58 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:58 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:58 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:21:59 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:21:59 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:21:59 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:22:00 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:00 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:00 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:22:01 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:01 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:01 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:22:02 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:02 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:02 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:22:03 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:03 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:03 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:22:04 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:04 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:04 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:22:05 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:05 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:05 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:22:06 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:06 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:06 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:22:07 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:07 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:07 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:22:08 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:08 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:08 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:22:09 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:09 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:09 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:22:10 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:10 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:10 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:22:11 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:11 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:11 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:22:12 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:12 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:12 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:22:13 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:13 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:13 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:22:14 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:14 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:14 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:22:15 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:15 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:15 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:22:16 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:16 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:16 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.09 hz","reasons":""}]}
+2020-Apr-19 | 18:22:17 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:17 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:17 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:22:18 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:18 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:18 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:22:19 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:19 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:19 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:22:20 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:20 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:20 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:22:21 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:21 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:21 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:22:22 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:22 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:22 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:22:23 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:23 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:23 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:22:24 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:24 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:24 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:22:25 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:25 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:25 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:22:26 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:26 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:26 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:22:27 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:27 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:27 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:22:28 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:28 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:28 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:22:29 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:29 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:29 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:22:30 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:30 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:30 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:22:31 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:31 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:31 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:22:32 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:32 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:32 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:22:33 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:33 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:33 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:22:34 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:34 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:34 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:22:35 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:35 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:35 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:22:36 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:36 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:36 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:22:37 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:37 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:37 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:22:38 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:38 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:38 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:22:39 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:39 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:39 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:22:40 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:40 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:40 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:22:41 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:41 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:41 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:22:42 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:42 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:42 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:22:43 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:43 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:43 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:22:44 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:44 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:44 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:22:45 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:45 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:45 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:22:46 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:46 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:46 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:22:47 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:47 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:47 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:22:48 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:48 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:48 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:22:49 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:49 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:49 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:22:50 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:50 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:50 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:22:51 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:51 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:51 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:22:52 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:52 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:52 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:22:53 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:53 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:53 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:22:54 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:54 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:54 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:22:55 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:55 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:55 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:22:56 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:56 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:56 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:22:57 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:57 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:57 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:22:58 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:58 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:58 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:22:59 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:22:59 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:22:59 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.95 hz","reasons":""}]}
+2020-Apr-19 | 18:23:00 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:00 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:00 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:23:01 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:01 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:01 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:23:02 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:02 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:02 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:23:03 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:03 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:03 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:23:04 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:04 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:04 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:23:05 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:05 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:05 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:23:06 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:06 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:06 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.09 hz","reasons":""}]}
+2020-Apr-19 | 18:23:07 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:07 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:07 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:23:08 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:08 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:08 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.12 hz","reasons":""}]}
+2020-Apr-19 | 18:23:09 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:09 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:09 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:23:10 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:10 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:10 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:23:11 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:11 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:11 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.09 hz","reasons":""}]}
+2020-Apr-19 | 18:23:12 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:12 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:12 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:23:13 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:13 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:13 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.26 hz","reasons":""}]}
+2020-Apr-19 | 18:23:14 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:14 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:14 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:23:15 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:15 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:15 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:23:16 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:16 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:16 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:23:17 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:17 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:17 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:23:18 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:18 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:18 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.89 hz","reasons":""}]}
+2020-Apr-19 | 18:23:19 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:19 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:19 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:23:20 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:20 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:20 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.96 hz","reasons":""}]}
+2020-Apr-19 | 18:23:21 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:21 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:21 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:23:22 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:22 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:22 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:23:23 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:23 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:23 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:23:24 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:24 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:24 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:23:25 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:25 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:25 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:23:26 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:26 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:26 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:23:27 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:27 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:27 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.85 hz","reasons":""}]}
+2020-Apr-19 | 18:23:28 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:28 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:28 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:23:29 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:29 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:29 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.96 hz","reasons":""}]}
+2020-Apr-19 | 18:23:30 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:30 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:30 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:23:31 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:31 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:31 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:23:32 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:32 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:32 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:23:33 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:33 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:33 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:23:34 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:34 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:34 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:23:35 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:35 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:35 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:23:36 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:36 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:36 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:23:37 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:37 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:37 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:23:38 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:38 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:38 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:23:39 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:39 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:39 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:23:40 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:40 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:40 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:23:41 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:41 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:41 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:23:42 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:42 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:42 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:23:43 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:43 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:43 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.92 hz","reasons":""}]}
+2020-Apr-19 | 18:23:44 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:44 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:44 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:23:45 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:45 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:45 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:23:46 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:46 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:46 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:23:47 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:47 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:47 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:23:48 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:48 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:48 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:23:49 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:49 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:49 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:23:50 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:50 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:50 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:23:51 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:51 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:51 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:23:52 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:52 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:52 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:23:53 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:53 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:53 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:23:54 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:54 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:54 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:23:55 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:55 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:55 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:23:56 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:56 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:56 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.97 hz","reasons":""}]}
+2020-Apr-19 | 18:23:57 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:57 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:57 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:23:58 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:58 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:58 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:23:59 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:23:59 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:23:59 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:24:00 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:00 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:00 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:24:01 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:01 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:01 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:24:02 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:02 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:02 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:24:03 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:03 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:03 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:24:04 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:04 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:04 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:24:05 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:05 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:05 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:24:06 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:06 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:06 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:24:07 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:07 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:07 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:24:08 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:08 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:08 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.89 hz","reasons":""}]}
+2020-Apr-19 | 18:24:09 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:09 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:09 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:24:10 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:10 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:10 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:24:11 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:11 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:11 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:24:12 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:12 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:12 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:24:13 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:13 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:13 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:24:14 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:14 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:14 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:24:15 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:15 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:15 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:24:16 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:16 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:16 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.92 hz","reasons":""}]}
+2020-Apr-19 | 18:24:17 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:17 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:17 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:24:18 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:18 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:18 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:24:19 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:19 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:19 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:24:20 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:20 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:20 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:24:21 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:21 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:21 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:24:22 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:22 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:22 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:24:23 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:23 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:23 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:24:24 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:24 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:24 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:24:25 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:25 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:25 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:24:26 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:26 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:26 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:24:27 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:27 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:27 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:24:28 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:28 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:28 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:24:29 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:29 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:29 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:24:30 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:30 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:30 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:24:31 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:31 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:31 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:24:32 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:32 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:32 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:24:33 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:33 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:33 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:24:34 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:34 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:34 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:24:35 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:35 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:35 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.96 hz","reasons":""}]}
+2020-Apr-19 | 18:24:36 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:36 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:36 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.85 hz","reasons":""}]}
+2020-Apr-19 | 18:24:37 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:37 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:37 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:24:38 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:38 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:38 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:24:39 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:39 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:39 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:24:40 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:40 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:40 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:24:41 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:41 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:41 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:24:42 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:42 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:42 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:24:43 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:43 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:43 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:24:44 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:44 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:44 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:24:45 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:45 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:45 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:24:46 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:46 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:46 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:24:47 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:47 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:47 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:24:48 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:48 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:48 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:24:49 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:49 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:49 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:24:50 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:50 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:50 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:24:51 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:51 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:51 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:24:52 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:52 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:52 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.96 hz","reasons":""}]}
+2020-Apr-19 | 18:24:53 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:53 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:53 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:24:54 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:54 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:54 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:24:55 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:55 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:55 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:24:56 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:56 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:56 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:24:57 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:57 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:57 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.74 hz","reasons":""}]}
+2020-Apr-19 | 18:24:58 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:58 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:58 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:24:59 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:24:59 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:24:59 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.09 hz","reasons":""}]}
+2020-Apr-19 | 18:25:00 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:00 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:00 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:25:01 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:01 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:01 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:25:02 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:02 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:02 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:25:03 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:03 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:03 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:25:04 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:04 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:04 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:25:05 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:05 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:05 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:25:06 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:06 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:06 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:25:07 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:07 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:07 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:25:08 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:08 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:08 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:25:09 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:09 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:09 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:25:10 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:10 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:10 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:25:11 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:11 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:11 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:25:12 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:12 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:12 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:25:13 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:13 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:13 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:25:14 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:14 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:14 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:25:15 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:15 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:15 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:25:16 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:16 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:16 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:25:17 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:17 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:17 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:25:18 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:18 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:18 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.97 hz","reasons":""}]}
+2020-Apr-19 | 18:25:19 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:19 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:19 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:25:20 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:20 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:20 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:25:21 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:21 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:21 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:25:22 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:22 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:22 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:25:23 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:23 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:23 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:25:24 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:24 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:24 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:25:25 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:25 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:25 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:25:26 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:26 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:26 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:25:27 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:27 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:27 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:25:28 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:28 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:28 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:25:29 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:29 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:29 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:25:30 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:30 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:30 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:25:31 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:31 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:31 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:25:32 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:32 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:32 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:25:33 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:33 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:33 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:25:34 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:34 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:34 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:25:35 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:35 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:35 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:25:36 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:36 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:36 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:25:37 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:37 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:37 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:25:38 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:38 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:38 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:25:39 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:39 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:39 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:25:40 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:40 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:40 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:25:41 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:41 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:41 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:25:42 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:42 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:42 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:25:43 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:43 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:43 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.09 hz","reasons":""}]}
+2020-Apr-19 | 18:25:44 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:44 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:44 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:25:45 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:45 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:45 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:25:46 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:46 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:46 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:25:47 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:47 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:47 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.09 hz","reasons":""}]}
+2020-Apr-19 | 18:25:48 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:48 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:48 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:25:49 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:49 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:49 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:25:50 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:50 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:50 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:25:51 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:51 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:51 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:25:52 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:52 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:52 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:25:53 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:53 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:53 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:25:54 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:54 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:54 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:25:55 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:55 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:55 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:25:56 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:56 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:56 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:25:57 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:57 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:57 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:25:58 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:58 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:58 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:25:59 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:25:59 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:25:59 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:26:00 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:00 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:00 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:26:01 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:01 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:01 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:26:02 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:02 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:02 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:26:03 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:03 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:03 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:26:04 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:04 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:04 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:26:05 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:05 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:05 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:26:06 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:06 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:06 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:26:07 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:07 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:07 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:26:08 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:08 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:08 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:26:09 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:09 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:09 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.89 hz","reasons":""}]}
+2020-Apr-19 | 18:26:10 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:10 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:10 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:26:11 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:11 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:11 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:26:12 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:12 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:12 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:26:13 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:13 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:13 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:26:14 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:14 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:14 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.78 hz","reasons":""}]}
+2020-Apr-19 | 18:26:15 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:15 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:15 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.90 hz","reasons":""}]}
+2020-Apr-19 | 18:26:16 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:16 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:16 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:26:17 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:17 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:17 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:26:18 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:18 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:18 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:26:19 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:19 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:19 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:26:20 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:20 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:20 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:26:21 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:21 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:21 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:26:22 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:22 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:22 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.96 hz","reasons":""}]}
+2020-Apr-19 | 18:26:23 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:23 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:23 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:26:24 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:24 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:24 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:26:25 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:25 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:25 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:26:26 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:26 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:26 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:26:27 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:27 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:27 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:26:28 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:28 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:28 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:26:29 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:29 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:29 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:26:30 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:30 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:30 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.97 hz","reasons":""}]}
+2020-Apr-19 | 18:26:31 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:31 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:31 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:26:32 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:32 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:32 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.09 hz","reasons":""}]}
+2020-Apr-19 | 18:26:33 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:33 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:33 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:26:34 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:34 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:34 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.11 hz","reasons":""}]}
+2020-Apr-19 | 18:26:35 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:35 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:35 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.96 hz","reasons":""}]}
+2020-Apr-19 | 18:26:36 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:36 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:36 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.89 hz","reasons":""}]}
+2020-Apr-19 | 18:26:37 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:37 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:37 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:26:38 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:38 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:38 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:26:39 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:39 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:39 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.77 hz","reasons":""}]}
+2020-Apr-19 | 18:26:40 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:40 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:40 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.97 hz","reasons":""}]}
+2020-Apr-19 | 18:26:41 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:41 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:41 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:26:42 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:42 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:42 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:26:43 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:43 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:43 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:26:44 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:44 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:44 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:26:45 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:45 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:45 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:26:46 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:46 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:46 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:26:47 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:47 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:47 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:26:48 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:48 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:48 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:26:49 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:49 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:49 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:26:50 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:50 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:50 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.95 hz","reasons":""}]}
+2020-Apr-19 | 18:26:51 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:51 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:51 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:26:52 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:52 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:52 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:26:53 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:53 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:53 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:26:54 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:54 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:54 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.95 hz","reasons":""}]}
+2020-Apr-19 | 18:26:55 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:55 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:55 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:26:56 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:56 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:56 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:26:57 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:57 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:57 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:26:58 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:58 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:58 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:26:59 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:26:59 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:26:59 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:27:00 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:00 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:00 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:27:01 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:01 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:01 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:27:02 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:02 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:02 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:27:03 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:03 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:03 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:27:04 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:04 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:04 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:27:05 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:05 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:05 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:27:06 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:06 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:06 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:27:07 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:07 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:07 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:27:08 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:08 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:08 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:27:09 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:09 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:09 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:27:10 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:10 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:10 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:27:11 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:11 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:11 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.93 hz","reasons":""}]}
+2020-Apr-19 | 18:27:12 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:12 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:12 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:27:13 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:13 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:13 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:27:14 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:14 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:14 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:27:15 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:15 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:15 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:27:16 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:16 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:16 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:27:17 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:17 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:17 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:27:18 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:18 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:18 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:27:19 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:19 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:19 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:27:20 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:20 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:20 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:27:21 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:21 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:21 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:27:22 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:22 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:22 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.95 hz","reasons":""}]}
+2020-Apr-19 | 18:27:23 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:23 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:23 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:27:24 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:24 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:24 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.79 hz","reasons":""}]}
+2020-Apr-19 | 18:27:25 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:25 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:25 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:27:26 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:26 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:26 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:27:27 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:27 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:27 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:27:28 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:28 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:28 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:27:29 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:29 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:29 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:27:30 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:30 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:30 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:27:31 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:31 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:31 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:27:32 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:32 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:32 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:27:33 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:33 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:33 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:27:34 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:34 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:34 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:27:35 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:35 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:35 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:27:36 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:36 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:36 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:27:37 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:37 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:37 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.93 hz","reasons":""}]}
+2020-Apr-19 | 18:27:38 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:38 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:38 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.92 hz","reasons":""}]}
+2020-Apr-19 | 18:27:39 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:39 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:39 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:27:40 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:40 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:40 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:27:41 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:41 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:41 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:27:42 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:42 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:42 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:27:43 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:43 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:43 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:27:44 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:44 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:44 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:27:45 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:45 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:45 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:27:46 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:46 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:46 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:27:47 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:47 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:47 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:27:48 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:48 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:48 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:27:49 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:49 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:49 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:27:50 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:50 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:50 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:27:51 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:51 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:51 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:27:52 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:52 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:52 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:27:53 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:53 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:53 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:27:54 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:54 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:54 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:27:55 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:55 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:55 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:27:56 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:56 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:56 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:27:57 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:57 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:57 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:27:58 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:58 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:58 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:27:59 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:27:59 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:27:59 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:28:00 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:00 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:00 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:28:01 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:01 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:01 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:28:02 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:02 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:02 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:28:03 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:03 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:03 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:28:04 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:04 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:04 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.22 hz","reasons":""}]}
+2020-Apr-19 | 18:28:05 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:05 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:05 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:28:06 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:06 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:06 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:28:07 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:07 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:07 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:28:08 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:08 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:08 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:28:09 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:09 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:09 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:28:10 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:10 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:10 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:28:11 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:11 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:11 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:28:12 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:12 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:12 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:28:13 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:13 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:13 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.94 hz","reasons":""}]}
+2020-Apr-19 | 18:28:14 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:14 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:14 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:28:15 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:15 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:15 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.10 hz","reasons":""}]}
+2020-Apr-19 | 18:28:16 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:16 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:16 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:28:17 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:17 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:17 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.97 hz","reasons":""}]}
+2020-Apr-19 | 18:28:18 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:18 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:18 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:28:19 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:19 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:19 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:28:20 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:20 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:20 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.08 hz","reasons":""}]}
+2020-Apr-19 | 18:28:21 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:21 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:21 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.81 hz","reasons":""}]}
+2020-Apr-19 | 18:28:22 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:22 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:22 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:28:23 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:23 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:23 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:28:24 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:24 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:24 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:28:25 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:25 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:25 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:28:26 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:26 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:26 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:28:27 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:27 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:27 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:28:28 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:28 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:28 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:28:29 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:29 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:29 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:28:30 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:30 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:30 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:28:31 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:31 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:31 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.07 hz","reasons":""}]}
+2020-Apr-19 | 18:28:32 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:32 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:32 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.05 hz","reasons":""}]}
+2020-Apr-19 | 18:28:33 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:33 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:33 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:28:34 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:34 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:34 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.04 hz","reasons":""}]}
+2020-Apr-19 | 18:28:35 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:35 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:35 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.83 hz","reasons":""}]}
+2020-Apr-19 | 18:28:36 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:36 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:36 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:28:37 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:37 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:37 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.03 hz","reasons":""}]}
+2020-Apr-19 | 18:28:38 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:38 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:38 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:28:39 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:39 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:39 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:28:40 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:40 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:40 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:28:41 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:41 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:41 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:28:42 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:42 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:42 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:28:43 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:43 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:43 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:28:44 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:44 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:44 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:28:45 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:45 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:45 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:28:46 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:46 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:46 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:28:47 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:47 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:47 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:28:48 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:48 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:48 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:28:49 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:49 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:49 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:28:50 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:50 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:50 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:28:51 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:51 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:51 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:28:52 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:52 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:52 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:28:53 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:53 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:53 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:28:54 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:54 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:54 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:28:55 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:55 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:55 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:28:56 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:56 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:56 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.98 hz","reasons":""}]}
+2020-Apr-19 | 18:28:57 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:57 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:57 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:28:58 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:58 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:58 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:28:59 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:28:59 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:28:59 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:00 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:00 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:00 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:01 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:01 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:01 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:02 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:02 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:02 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:03 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:03 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:03 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:29:04 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:04 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:04 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:29:05 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:05 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:05 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:06 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:06 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:06 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:07 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:07 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:07 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:08 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:08 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:08 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:29:09 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:09 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:09 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:29:10 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:10 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:10 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:29:11 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:11 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:11 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:12 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:12 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:12 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:13 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:13 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:13 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:14 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:14 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:14 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:29:15 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:15 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:15 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:29:16 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:16 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:16 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:29:17 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:17 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:17 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:18 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:18 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:18 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:19 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:19 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:19 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:20 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:20 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:20 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:21 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:21 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:21 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:22 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:22 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:22 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:23 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:23 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:23 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:24 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:24 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:24 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"49.99 hz","reasons":""}]}
+2020-Apr-19 | 18:29:25 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:25 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:25 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:26 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:26 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:26 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:27 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:27 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:27 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:29:28 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:28 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:28 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:29 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:29 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:29 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:29:30 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:30 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:30 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.02 hz","reasons":""}]}
+2020-Apr-19 | 18:29:31 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:31 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:31 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:32 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:32 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:32 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:29:33 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:33 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:33 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:29:34 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:34 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:34 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:29:35 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:35 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:35 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:29:36 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:36 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да╛╫с║ё
+2020-Apr-19 | 18:29:36 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:29:37 | ERROR | DataHubClient handleRecv,  10061: сисзд©╠Й╪фкЦ╩З╩Щ╪╚╬э╬Ьё╛нч╥╗а╛╫с║ё
+2020-Apr-19 | 18:29:37 | ERROR | DataHubClient handleRecv,  10054: т╤ЁлжВ╩Зг©фх╧ь╠уакр╩╦Жожсп╣да

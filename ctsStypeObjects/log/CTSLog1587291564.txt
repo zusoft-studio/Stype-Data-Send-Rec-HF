@@ -1,0 +1,35 @@
+2020-Apr-19 | 18:19:24 | Start of log
+2020-Apr-19 | 18:19:24 | INFO | cliParams.configPath: 
+2020-Apr-19 | 18:19:24 | INFO | cliParams.dhName: DESKTOP-NRPN191_Tracker
+2020-Apr-19 | 18:19:24 | INFO | cliParams.dhIp: 127.0.0.1
+2020-Apr-19 | 18:19:24 | INFO | 
+2020-Apr-19 | 18:19:24 | INFO | Resolved myConfig.myActiveConfigPath: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\activeConfig.json
+2020-Apr-19 | 18:19:24 | INFO | Resolved defaultConfigPath: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\default.json
+2020-Apr-19 | 18:19:24 | INFO | Resolved myConfig.myFolderPath: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects
+2020-Apr-19 | 18:19:24 | INFO | Resolved myConfig.myLogFolderPath: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\log
+2020-Apr-19 | 18:19:24 | INFO | Trying to parse D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\activeConfig.json
+2020-Apr-19 | 18:19:24 | ERROR | Error parsing config: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\activeConfig.json reason: Error reading config file: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\activeConfig.json error: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\activeConfig.json: cannot open file
+2020-Apr-19 | 18:19:24 | INFO | Trying to parse D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\default.json
+2020-Apr-19 | 18:19:24 | ERROR | Distortion model not recognized: undefined
+2020-Apr-19 | 18:19:24 | INFO | Success! Starting with chains
+2020-Apr-19 | 18:19:24 | INFO | Input: [127.0.0.1:6305]
+2020-Apr-19 | 18:19:24 | INFO | Output: [192.168.44.4:8567]
+2020-Apr-19 | 18:19:24 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。
+2020-Apr-19 | 18:19:26 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.01 hz","reasons":""}]}
+2020-Apr-19 | 18:19:29 | ERROR | DataHubClient handleRecv,  10061: 由于目标计算机积极拒绝，无法连接。
+2020-Apr-19 | 18:19:29 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。
+2020-Apr-19 | 18:19:29 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"3.62 hz","reasons":""}]}
+2020-Apr-19 | 18:19:29 | ERROR | DataHubClient handleRecv,  10061: 由于目标计算机积极拒绝，无法连接。
+2020-Apr-19 | 18:19:29 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"4.41 hz","reasons":""}]}
+2020-Apr-19 | 18:19:29 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。
+2020-Apr-19 | 18:19:29 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。
+2020-Apr-19 | 18:19:29 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。
+2020-Apr-19 | 18:19:29 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"58.43 hz","reasons":""}]}
+2020-Apr-19 | 18:19:29 | ERROR | DataHubClient handleRecv,  10061: 由于目标计算机积极拒绝，无法连接。
+2020-Apr-19 | 18:19:29 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。
+2020-Apr-19 | 18:19:30 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.06 hz","reasons":""}]}
+2020-Apr-19 | 18:19:30 | ERROR | DataHubClient handleRecv,  10061: 由于目标计算机积极拒绝，无法连接。
+2020-Apr-19 | 18:19:30 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。
+2020-Apr-19 | 18:19:31 | STATUS | {"CTS_Statusreport":[{"name":"big_cross","id":"COb5Oj7gyr63mLCK","status":"50.00 hz","reasons":""}]}
+2020-Apr-19 | 18:19:31 | ERROR | DataHubClient handleRecv,  10061: 由于目标计算机积极拒绝，无法连接。
+2020-Apr-19 | 18:19:31 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。

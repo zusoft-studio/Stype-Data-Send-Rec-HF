@@ -1,0 +1,36 @@
+2020-Apr-19 | 23:12:13 | Start of log
+2020-Apr-19 | 23:12:13 | INFO | cliParams.configPath: 
+2020-Apr-19 | 23:12:13 | INFO | cliParams.dhName: DESKTOP-NRPN191_Tracker
+2020-Apr-19 | 23:12:13 | INFO | cliParams.dhIp: 127.0.0.1
+2020-Apr-19 | 23:12:13 | INFO | 
+2020-Apr-19 | 23:12:13 | INFO | Resolved myConfig.myActiveConfigPath: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\activeConfig.json
+2020-Apr-19 | 23:12:13 | INFO | Resolved defaultConfigPath: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\default.json
+2020-Apr-19 | 23:12:13 | INFO | Resolved myConfig.myFolderPath: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects
+2020-Apr-19 | 23:12:13 | INFO | Resolved myConfig.myLogFolderPath: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\log
+2020-Apr-19 | 23:12:13 | INFO | Trying to parse D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\activeConfig.json
+2020-Apr-19 | 23:12:13 | ERROR | Error parsing config: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\activeConfig.json reason: Error reading config file: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\activeConfig.json error: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\activeConfig.json: cannot open file
+2020-Apr-19 | 23:12:13 | INFO | Trying to parse D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\default.json
+2020-Apr-19 | 23:12:13 | ERROR | Error parsing config: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\default.json reason: Error reading config file: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\default.json error: D:/Coding\stype\Pixotope CTS - Stype Follower - 1.2.0\Pixotope CTS - Stype Follower - 1.2.0\ctsStypeObjects\config\default.json(129): expected ']' or ','
+2020-Apr-19 | 23:12:13 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。
+2020-Apr-19 | 23:12:15 | STATUS | No inputs in Config
+2020-Apr-19 | 23:12:15 | ERROR | DataHubClient handleRecv,  10061: 由于目标计算机积极拒绝，无法连接。
+2020-Apr-19 | 23:12:15 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。
+2020-Apr-19 | 23:12:16 | STATUS | No inputs in Config
+2020-Apr-19 | 23:12:16 | ERROR | DataHubClient handleRecv,  10061: 由于目标计算机积极拒绝，无法连接。
+2020-Apr-19 | 23:12:16 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。
+2020-Apr-19 | 23:12:17 | STATUS | No inputs in Config
+2020-Apr-19 | 23:12:17 | ERROR | DataHubClient handleRecv,  10061: 由于目标计算机积极拒绝，无法连接。
+2020-Apr-19 | 23:12:17 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。
+2020-Apr-19 | 23:12:18 | STATUS | No inputs in Config
+2020-Apr-19 | 23:12:18 | ERROR | DataHubClient handleRecv,  10061: 由于目标计算机积极拒绝，无法连接。
+2020-Apr-19 | 23:12:18 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。
+2020-Apr-19 | 23:12:19 | STATUS | No inputs in Config
+2020-Apr-19 | 23:12:19 | ERROR | DataHubClient handleRecv,  10061: 由于目标计算机积极拒绝，无法连接。
+2020-Apr-19 | 23:12:19 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。
+2020-Apr-19 | 23:12:20 | STATUS | No inputs in Config
+2020-Apr-19 | 23:12:20 | ERROR | DataHubClient handleRecv,  10061: 由于目标计算机积极拒绝，无法连接。
+2020-Apr-19 | 23:12:20 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。
+2020-Apr-19 | 23:12:21 | STATUS | No inputs in Config
+2020-Apr-19 | 23:12:21 | ERROR | DataHubClient handleRecv,  10061: 由于目标计算机积极拒绝，无法连接。
+2020-Apr-19 | 23:12:21 | ERROR | DataHubClient handleRecv,  10054: 远程主机强迫关闭了一个现有的连接。
+2020-Apr-19 | 23:12:22 | STATUS | No inputs in Config
